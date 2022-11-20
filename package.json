@@ -1,0 +1,19 @@
+{
+  "name": "test-to-gitee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiking01/test-to-gitee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiking01/test-to-gitee/issues"
+  },
+  "homepage": "https://github.com/kaiking01/test-to-gitee#readme"
+}
